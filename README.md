@@ -73,10 +73,3 @@ It combines theory, code examples, and small projects — making machine learnin
 - Project: SHAP on Real Dataset  
 
 ---
-
-## 🚀 Getting Started  
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/practical-ml-r.git
-cd practical-ml-r
